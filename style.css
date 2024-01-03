@@ -1,0 +1,7 @@
+div{
+    background-color:burlywood; 
+    border: 10px;
+    padding-top: 10px;
+    box-sizing: content-box 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
